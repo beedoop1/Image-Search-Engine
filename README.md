@@ -1,4 +1,4 @@
-# Unsplash_Photo_Browser
+# Image Search Engine
 
 
 An Android app built with **Kotlin** that allows users to search and view high-quality photos from the Unsplash API.
